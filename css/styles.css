@@ -11,3 +11,23 @@ div {
 * {
     margin: 0;
 }
+
+thead {
+    background-color: rgb(119, 242, 119);
+}
+
+.a {
+    background-color: rgb(79, 242, 254);
+    text-align: left;
+}
+
+td {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+.b {
+    background-color: rgb(255, 179, 236);
+    text-align: right;   
+}
